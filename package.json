@@ -2,8 +2,8 @@
   "name": "react-native-web-maps",
   "version": "0.3.0",
   "description": "React Native for Web implementation of react-native-maps",
-  "main": "dist/index.js",
-  "main-es": "src/index.js",
+  "main": "dist/index.web.js",
+  "main-es": "src/index.web.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:react-native-web-community/react-native-web-maps.git"
@@ -40,7 +40,7 @@
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-react-native": "^4.0.0",
-    "eslint": "^5.15.3",
+    "eslint": "^4.11.0",
     "eslint-config-bambi": "^1.4.0",
     "prettier": "^1.16.4",
     "react": "^16.0.0",
